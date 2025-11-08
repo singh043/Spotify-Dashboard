@@ -60,5 +60,5 @@ Provides detailed song-level tables with song name, release date, distinct artis
 # Dashboard
 
 <p align="center">
-    <img src="https://github.com/singh-43/Spotify-Dashboard/blob/main/Spotify%20Dashboard.PNG" alt="Spotify Analysis Dashboard"/>
+    <img src="https://github.com/singh043/Spotify-Dashboard/blob/main/Spotify%20Dashboard.PNG" alt="Spotify Analysis Dashboard"/>
 </p>
